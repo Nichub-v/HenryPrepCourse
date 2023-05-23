@@ -1,2 +1,2 @@
 # HenryPrepCourse
-Repositorio con todos los módulos del PrepCourse
+Repositorio con todos los módulos del PrepCourse.
